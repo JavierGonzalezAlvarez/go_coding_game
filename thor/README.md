@@ -1,4 +1,4 @@
-https://www.codingame.com/
+game on the web https://www.codingame.com/
 
 thor game
 * conditions
